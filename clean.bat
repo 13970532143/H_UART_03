@@ -1,0 +1,9 @@
+del *.sdf /s
+del *.ilk /s
+del *.pdb /s
+del *.ipch /s
+del *.pch /s
+del *.obj /s
+del *.idb /s
+del *.log /s
+del *.tlog /s
