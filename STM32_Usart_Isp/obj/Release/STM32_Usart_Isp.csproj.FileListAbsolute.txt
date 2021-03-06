@@ -1,0 +1,10 @@
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\bin\Release\STM32_Usart_Isp.exe
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\bin\Release\STM32_Usart_Isp.pdb
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\bin\Release\zh-CN\STM32_Usart_Isp.resources.dll
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Release\STM32_Usart_Isp.Form1.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Release\STM32_Usart_Isp.Properties.Resources.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Release\STM32_Usart_Isp.Form1.zh-CN.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Release\STM32_Usart_Isp.csproj.GenerateResource.Cache
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Release\zh-CN\STM32_Usart_Isp.resources.dll
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Release\STM32_Usart_Isp.exe
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Release\STM32_Usart_Isp.pdb

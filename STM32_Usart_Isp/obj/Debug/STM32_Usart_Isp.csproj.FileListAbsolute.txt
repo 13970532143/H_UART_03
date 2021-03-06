@@ -1,0 +1,43 @@
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\STM32_Usart_Isp.exe
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\STM32_Usart_Isp.pdb
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\zh-CN\STM32_Usart_Isp.resources.dll
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Form1.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Properties.Resources.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Form1.zh-CN.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.csproj.GenerateResource.Cache
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\zh-CN\STM32_Usart_Isp.resources.dll
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.exe
+D:\project_template\C#_PROJCET\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.pdb
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.exe
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\bin\Debug\STM32_Usart_Isp.exe
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\bin\Debug\STM32_Usart_Isp.pdb
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\bin\Debug\zh-CN\STM32_Usart_Isp.resources.dll
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.csprojResolveAssemblyReference.cache
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Form1.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Properties.Resources.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Form1.zh-CN.resources
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.csproj.GenerateResource.Cache
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\obj\Debug\zh-CN\STM32_Usart_Isp.resources.dll
+D:\project_template\C#_PROJCET\STM32_Usart_Isp_V1.1\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.pdb
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.exe
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\STM32_Usart_Isp.exe
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\STM32_Usart_Isp.pdb
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\zh-CN\STM32_Usart_Isp.resources.dll
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.csprojResolveAssemblyReference.cache
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Form1.resources
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Properties.Resources.resources
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Form1.zh-CN.resources
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.csproj.GenerateResource.Cache
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\zh-CN\STM32_Usart_Isp.resources.dll
+G:\VS C#\MyCOM\资料\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.pdb
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.exe
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.pdb
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\STM32_Usart_Isp.exe
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\STM32_Usart_Isp.pdb
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\bin\Debug\zh-CN\STM32_Usart_Isp.resources.dll
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.csprojResolveAssemblyReference.cache
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Form1.resources
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Properties.Resources.resources
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.Form1.zh-CN.resources
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\STM32_Usart_Isp.csproj.GenerateResource.Cache
+G:\VS C#\MyCOM\STM32_Usart_Isp\STM32_Usart_Isp\obj\Debug\zh-CN\STM32_Usart_Isp.resources.dll
